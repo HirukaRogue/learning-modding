@@ -1,0 +1,12 @@
+{
+  "item.learningmodding.zircon": "Zircon",
+  "item.learningmodding.raw_zircon": "Raw Zircon",
+
+  "block.learningmodding.zircon_block": "Zircon Block",
+  "block.learningmodding.zircon_ore": "Zircon Ore",
+  "block.learningmodding.deepslate_zircon_ore": "Deepslate Zircon Ore",
+  "block.learningmodding.nether_zircon_ore": "Nether Zircon Ore",
+  "block.learningmodding.endstone_zircon_ore": "Endstone Zircon Ore",
+
+  "itemGroup.my_tab": "My Tab"
+}
